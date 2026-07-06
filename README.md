@@ -1,75 +1,106 @@
 <div align="center">
 
-# Hey 👋, I'm Ali Sorathiya
+# Hey 👋 I'm Ali Sorathiya
 
-### Backend Developer • AI Enthusiast • MERN Stack • Spring Boot
+### Backend Developer • AI Enthusiast • MERN • Spring Boot
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Application+Developer;Building+Scalable+REST+APIs;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=25&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Application+Developer;Building+Scalable+REST+APIs;Always+Learning+Something+New"/>
 
 <br>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=ali-sorathiya64&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<a href="https://komarev.com/ghpvc/?username=ali-sorathiya64">
+<img src="https://komarev.com/ghpvc/?username=ali-sorathiya64&label=Profile+Views&color=0e75b6&style=flat"/>
+</a>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-```typescript
-const ali = {
-    role: "Backend Developer",
+```java
+public class Ali {
 
-    education: "BCA Graduate",
+    String role = "Backend Developer";
 
-    location: "India 🇮🇳",
-
-    currentlyLearning: [
-        "NestJS",
-        "Microservices",
-        "AWS",
-        "System Design"
-    ],
-
-    interests: [
+    String[] focus = {
         "Backend Development",
         "Artificial Intelligence",
-        "Cloud",
-        "Open Source"
-    ],
+        "REST APIs"
+    };
 
-    funFact: "I enjoy turning ideas into scalable applications 🚀"
+    String currentlyLearning =
+            "NestJS • AWS • Microservices";
+
+    String goal =
+            "Build software that solves real-world problems.";
 }
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,ts,js,react,vite,tailwind,mongodb,postgres,mysql,docker,aws,git,github,postman,vscode&theme=dark"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,ts,js,html,css,c,mysql&theme=dark"/>
+</p>
 
-</div>
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,mongodb,postgres&theme=dark"/>
+</p>
+
+### DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,postman,vscode&theme=dark"/>
+</p>
+
+### AI & Others
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-5A31F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pinecone-005CFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
+</p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Currently Learning
 
 ```text
-🧠 AI Agents
-
 ⚡ NestJS
 
 ☁ AWS
 
 🏗 Microservices
 
-📚 System Design
+🤖 AI Agents
 
-🤖 Large Language Models
+🧠 System Design
 ```
 
 ---
@@ -78,9 +109,9 @@ const ali = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -108,7 +139,7 @@ const ali = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ali-sorathiya64&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ali-sorathiya64&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
 
 </div>
 
@@ -118,14 +149,14 @@ const ali = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ali-sorathiya">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="mailto:sorathiyaali97@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:sorathiyaali97@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.linkedin.com/in/ali-sorathiya">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 &nbsp;&nbsp;
@@ -140,20 +171,6 @@ const ali = {
 
 <div align="center">
 
-### 💭 Quote of the Day
-
-*"First, solve the problem. Then, write the code."*
-
-— John Johnson
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for stopping by ❤️
-
-⭐ If you like my work, consider giving a star to my repositories.
+> **"Code. Learn. Build. Repeat."**
 
 </div>
