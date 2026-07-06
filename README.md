@@ -4,7 +4,7 @@
 
 ### Backend Developer • AI Enthusiast • MERN • Spring Boot
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=25&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Application+Developer;Building+Scalable+REST+APIs;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Development;Learning+Spring+Boot+%26+NestJS;Exploring+AI+%26+Modern+Web+Technologies;Always+Learning+Something+New"/>
 
 <br>
 
@@ -25,7 +25,7 @@ public class Ali {
 
     String[] focus = {
         "Backend Development",
-        "Artificial Intelligence",
+        "GEN AI",
         "REST APIs"
     };
 
@@ -33,7 +33,7 @@ public class Ali {
             "NestJS • AWS • Microservices";
 
     String goal =
-            "Build software that solves real-world problems.";
+            "Keep learning and keep building.";
 }
 ```
 
