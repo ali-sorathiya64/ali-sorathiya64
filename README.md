@@ -1,9 +1,4 @@
 ## Hi there 👋
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Ali%20Sorathiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-</div>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ali_sorathiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-sorathiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sorathiyaali97@gmail.com) 
 # 💻 Tech Stack:
@@ -15,4 +10,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=ali-sorathiya64&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- ye both stuff he but meri readm kuch khass nhi he like isko extra ordinary bana de like but dont exgaerate
