@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hey 👋 I'm Ali Sorathiya
+# 👋 Hey, I'm Ali Sorathiya
 
 ### Backend Developer • Exploring Gen AI • NestJS • Spring Boot
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Development;Learning+Spring+Boot+%26+NestJS;Exploring+AI+%26+Modern+Web+Technologies;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Development;Learning+Spring+Boot+%26+NestJS;Exploring+AI+%26+Modern+Web+Technologies;Always+Learning+Something+New" />
 
-<br>
+<br/>
 
 <a href="https://komarev.com/ghpvc/?username=ali-sorathiya64">
-<img src="https://komarev.com/ghpvc/?username=ali-sorathiya64&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=ali-sorathiya64&label=Profile+Views&color=0e75b6&style=flat" />
 </a>
 
 </div>
@@ -25,7 +25,7 @@ public class Ali {
 
     String[] focus = {
         "Backend Development",
-        "GEN AI",
+        "Gen AI",
         "REST APIs"
     };
 
@@ -39,120 +39,105 @@ public class Ali {
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,ts,js,html,css,c,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,html,css,c,mysql&theme=dark" />
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
 </p>
 
-### Backend
+### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,mongodb,postgres&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,mongodb,postgres&theme=dark" />
 </p>
 
 ### DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,postman,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,postman,vscode&theme=dark" />
 </p>
 
-### AI & Others
+### AI & Other Technologies
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-5A31F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pinecone-005CFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-5A31F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-005CFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-```text
-⚡ NestJS
-
-☁ AWS
-
-🏗 Microservices
-
-🤖 AI Agents
-
-🧠 System Design
-```
+* ⚡ NestJS
+* ☁️ AWS
+* 🏗️ Microservices
+* 🤖 AI Agents
+* 🧠 System Design
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ali-sorathiya64&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ali-sorathiya64&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-sorathiya64&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-sorathiya64&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="mailto:sorathiyaali97@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://www.linkedin.com/in/ali-sorathiya">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://github.com/ali-sorathiya64">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </div>
@@ -164,4 +149,3 @@ public class Ali {
 > **"Code. Learn. Build. Repeat."**
 
 </div>
-
