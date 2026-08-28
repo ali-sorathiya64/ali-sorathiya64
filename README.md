@@ -27,7 +27,7 @@ Currently, I'm learning and exploring:
 * ⚡ NestJS
 * ☁️ AWS
 * 🏗️ Microservices
-* 🤖 AI Agents
+* 🤖 AI Stuff
 * 🧠 System Design
 
 > **Goal:** Keep learning and keep building.
@@ -111,6 +111,7 @@ Currently, I'm learning and exploring:
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -118,6 +119,7 @@ Currently, I'm learning and exploring:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-sorathiya64&theme=tokyo-night&hide_border=true" />
 
 </div>
+
 
 ---
 
