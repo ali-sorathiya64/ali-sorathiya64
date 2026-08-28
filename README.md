@@ -135,16 +135,6 @@ public class Ali {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ali-sorathiya64&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -174,4 +164,4 @@ public class Ali {
 > **"Code. Learn. Build. Repeat."**
 
 </div>
- isme thoda stuff nhi chal raha he like github analytics se github trophies tak and kya isme may be thoda optimization ki need he
+
