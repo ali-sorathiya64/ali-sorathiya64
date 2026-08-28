@@ -85,7 +85,7 @@ public class Ali {
 * ⚡ NestJS
 * ☁️ AWS
 * 🏗️ Microservices
-* 🤖 AI Agents
+* 🤖 AI Stuff
 * 🧠 System Design
 
 ---
