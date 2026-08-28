@@ -2,7 +2,7 @@
 
 # Hey 👋 I'm Ali Sorathiya
 
-### Backend Developer • Exploring GEN AI • NestJS • Spring Boot
+### Backend Developer • Exploring Gen AI • NestJS • Spring Boot
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Development;Learning+Spring+Boot+%26+NestJS;Exploring+AI+%26+Modern+Web+Technologies;Always+Learning+Something+New"/>
 
@@ -102,6 +102,26 @@ public class Ali {
 
 🧠 System Design
 ```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ali-sorathiya64&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
