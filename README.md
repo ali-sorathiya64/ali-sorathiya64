@@ -2,7 +2,7 @@
 
 # Hey 👋 I'm Ali Sorathiya
 
-### Backend Developer • AI Enthusiast • MERN • Spring Boot
+### Backend Developer • Exploring GEN AI • NestJS • Spring Boot
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Development;Learning+Spring+Boot+%26+NestJS;Exploring+AI+%26+Modern+Web+Technologies;Always+Learning+Something+New"/>
 
