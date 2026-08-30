@@ -88,7 +88,7 @@ Currently, I'm learning and exploring:
 <td align="center">⚡<br><b>NestJS</b></td>
 <td align="center">☁️<br><b>AWS</b></td>
 <td align="center">🏗️<br><b>Microservices</b></td>
-<td align="center">🤖<br><b>AI Agents</b></td>
+<td align="center">🤖<br><b>AI Stuff</b></td>
 <td align="center">🧠<br><b>System Design</b></td>
 </tr>
 </table>
