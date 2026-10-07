@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ali Sorathiya
 
-### Backend Developer | Java • Node.js • NestJS • Spring Boot | Exploring Gen AI
+### Backend Developer | Java • Node.js • NestJS • Spring Boot | Exploring Gen AI and System Design
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Development;Building+REST+APIs;Learning+NestJS+%26+Spring+Boot;Exploring+Gen+AI;Learning+Microservices+%26+AWS" />
 
