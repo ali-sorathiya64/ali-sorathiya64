@@ -20,7 +20,7 @@
 
 I'm a **Backend Developer** focused on building backend applications and REST APIs.
 
-My main areas of interest are **Node.js, NestJS, Java, Spring Boot, and Gen AI, Agentic AI, Microservices, System Design**.
+My main areas of interest are **Node.js, NestJS, Spring Boot, and Gen AI, Agentic AI, Microservices, System Design**.
 
 Currently, I'm learning and exploring:
 
