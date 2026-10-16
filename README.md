@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Developer** focused on building backend applications and AI Stuff, REST APIs.
+I'm a **Backend Developer** focused on building backend applications and REST APIs.
 
 My main areas of interest are **Node.js, NestJS, Spring Boot, and Gen AI, Microservices, System Design**.
 
