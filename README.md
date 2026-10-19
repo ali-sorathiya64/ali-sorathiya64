@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ali
+# 👋 Hi, I'm Ali Sorathiya 
 
 ### Backend Developer | Node.js • NestJS • Spring Boot | Exploring Gen AI and System Design
 
