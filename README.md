@@ -160,7 +160,7 @@ I don't claim to know everything here. These are areas I'm actively learning and
 
 ### Contribution Activity
 
-<img width="100%" src="https://ghchart.rshah.org/00BFFF/ali-sorathiya64" alt="Ali's GitHub contribution calendar" />
+<img width="100%" src="https://ghchart.rshah.org/BF5AF2/ali-sorathiya64" alt="Ali's GitHub contribution calendar" />
 
 </div>
 
