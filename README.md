@@ -1,111 +1,57 @@
 
-<!--
-  Ali Sorathiya | GitHub Profile README
-  Style: Editorial / Modern
--->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=ALI%20SORATHIYA&fontSize=42&fontColor=E6EDF3&fontAlignY=45&desc=BACKEND%20DEVELOPER%20%20%2F%20%20BUILDING%20BEYOND%20THE%20BASICS&descSize=12&descColor=8B949E&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=101820&height=180&section=header&text=ALI%20SORATHIYA&fontSize=46&fontColor=F0F3F6&fontAlignY=45&desc=BACKEND%20DEVELOPER%20%2F%20ALWAYS%20BUILDING&descSize=12&descColor=9AA8B5&descAlignY=72" width="100%" />
 
-  <br/>
+<br/>
 
-  **Backend Developer** · Node.js · NestJS · Spring Boot
+### I like understanding what happens behind the scenes.
 
-  *Building reliable backend systems, exploring distributed architecture, and integrating AI into real-world applications.*
+I build things, explore how software works, and enjoy solving problems beyond the user interface.
 
-  <br/>
+<br/>
 
-  <a href="https://linkedin.com/in/ali-sorathiya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sorathiyaali97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://aliportfolioapp.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-238636?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
+[Portfolio](https://aliportfolioapp.vercel.app/) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/ali-sorathiya) &nbsp; / &nbsp; [Email](mailto:sorathiyaali97@gmail.com)
 
 </div>
 
 ---
 
-### 01 / ABOUT
+## A bit about me
 
-I'm Ali, a developer focused on **backend engineering** and building applications that solve practical problems.
+I'm Ali, a backend developer interested in the engineering that makes applications work.
 
-My primary stack revolves around JavaScript and TypeScript, with Node.js and NestJS for backend development. I also explore Java and Spring Boot, along with the engineering concepts behind scalable applications.
+For me, backend development is more than writing APIs. It's about understanding how data moves, how different parts of an application communicate, what happens when something fails, and how to make things work reliably.
 
-Beyond building APIs, I'm interested in how systems communicate, handle failures, process events, and scale as complexity grows.
+I enjoy exploring different areas of software development rather than limiting myself to one particular technology or framework.
 
-- Backend development and REST API design
-- Authentication, authorization and database design
-- Event-driven architecture and microservices
-- Generative AI, RAG and LLM integrations
-- System design and software engineering fundamentals
+I'm still learning, experimenting, and improving with every thing I build.
 
-### 02 / TECHNOLOGY
+## Things that interest me
 
-**Languages**
+| Area | What I find interesting |
+|:--|:--|
+| **Backend Development** | Building application logic and working with APIs |
+| **Data & Databases** | How information is stored, structured and accessed |
+| **System Design** | Understanding how different components work together |
+| **Distributed Systems** | Communication, events and background processing |
+| **AI & Automation** | Finding practical ways to make software more useful |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,c" />
-</p>
+## What I'm exploring lately
 
-**Backend & Frameworks**
+Learning how to design better software, understanding architectural decisions, exploring distributed systems, and experimenting with AI-powered applications.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
-</p>
+Not trying to learn everything at once — just getting a little better at understanding how things work.
 
-**Databases & Infrastructure**
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws" />
-</p>
-
-**Frontend & Development Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,git,github,postman,vscode" />
-</p>
-
-**Currently working with / exploring**
-
-<p>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-222222?style=flat-square&logo=langgraph&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6C5CE7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-</p>
-
-### 03 / CURRENT FOCUS
-
-| Area | What I'm focusing on |
-|:---|:---|
-| **Backend Engineering** | NestJS, Spring Boot, API architecture |
-| **System Design** | Scalability, caching, reliability, distributed systems |
-| **Messaging** | Kafka, RabbitMQ, event-driven architecture |
-| **AI Engineering** | LangChain, LangGraph, RAG, LLM integrations |
-| **Infrastructure** | Docker, AWS fundamentals, deployment workflows |
-
-### 04 / GITHUB ACTIVITY
+## My GitHub
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&hide_border=true&bg_color=101820&title_color=8DB4D8&icon_color=8DB4D8&text_color=D6DEE5" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=ali-sorathiya64&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="75%" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-sorathiya64&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&hide_border=true&bg_color=101820&title_color=8DB4D8&text_color=D6DEE5&langs_count=6" />
 
 </div>
 
@@ -113,17 +59,14 @@ Beyond building APIs, I'm interested in how systems communicate, handle failures
 
 <div align="center">
 
-  **LET'S CONNECT**
+### Always curious. Always learning.
 
-  Open to learning, collaborating, and meaningful engineering conversations.
+*Build something. Understand it. Make it better.*
 
-  <a href="https://github.com/ali-sorathiya64">GitHub</a> ·
-  <a href="https://linkedin.com/in/ali-sorathiya">LinkedIn</a> ·
-  <a href="https://aliportfolioapp.vercel.app/">Portfolio</a> ·
-  <a href="mailto:sorathiyaali97@gmail.com">Email</a>
+<br/>
 
-  <br/><br/>
-
-  <sub>Building consistently. Learning continuously.</sub>
+[GitHub](https://github.com/ali-sorathiya64) &nbsp; · &nbsp;
+[Portfolio](https://aliportfolioapp.vercel.app/) &nbsp; · &nbsp;
+[LinkedIn](https://linkedin.com/in/ali-sorathiya)
 
 </div>
