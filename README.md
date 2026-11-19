@@ -1,154 +1,129 @@
-&#x20;\<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=ALI%20SORATHIYA&fontSize=52&fontColor=58A6FF&fontAlignY=42&desc=BACKEND%20ENGINEERING%20%2F%20SOFTWARE%20DEVELOPMENT&descSize=13&descAlignY=65&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect\&color=0d1117\&height=220\&section=header\&text=ALI%20SORATHIYA\&fontSize=52\&fontColor=58A6FF\&fontAlignY=42\&desc=BACKEND%20ENGINEERING%20%2F%20SOFTWARE%20DEVELOPMENT\&descSize=13\&descAlignY=65\&animation=fadeIn)" width="100%" />
+<!--
+  Ali Sorathiya | GitHub Profile README
+  Style: Editorial / Modern
+-->
 
-\<br/>
+<div align="center">
 
-**Backend Developer** · JavaScript / TypeScript · Node.js · NestJS
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=ALI%20SORATHIYA&fontSize=42&fontColor=E6EDF3&fontAlignY=45&desc=BACKEND%20DEVELOPER%20%20%2F%20%20BUILDING%20BEYOND%20THE%20BASICS&descSize=12&descColor=8B949E&descAlignY=70" width="100%" />
 
-\<br/>
+  <br/>
 
-\<a href="[https://aliportfolioapp.vercel.app](https://aliportfolioapp.vercel.app)">\<img src="[https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=white](https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square\&logo=vercel\&logoColor=white)" />\</a>
-\<a href="[https://linkedin.com/in/ali-sorathiya](https://linkedin.com/in/ali-sorathiya)">\<img src="[https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2](https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square\&logo=linkedin\&logoColor=0A66C2)" />\</a>
-\<a href="mailto\:sorathiyaali97\@gmail.com">\<img src="[https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=EA4335](https://img.shields.io/badge/EMAIL-0D1117?style=flat-square\&logo=gmail\&logoColor=EA4335)" />\</a>
-\<a href="[https://github.com/ali-sorathiya64](https://github.com/ali-sorathiya64)">\<img src="[https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-0D1117?style=flat-square\&logo=github\&logoColor=white)" />\</a>
+  **Backend Developer** · Node.js · NestJS · Spring Boot
 
-\<br/>\<br/>
+  *Building reliable backend systems, exploring distributed architecture, and integrating AI into real-world applications.*
 
-\<img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Building+backend+applications.;Exploring+distributed+systems.;Understanding+software+architecture.;Experimenting+with+LLM-powered+applications](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=500\&size=15\&duration=2800\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=580\&lines=Building+backend+applications.;Exploring+distributed+systems.;Understanding+software+architecture.;Experimenting+with+LLM-powered+applications)." />
+  <br/>
 
-\</div>
+  <a href="https://linkedin.com/in/ali-sorathiya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sorathiyaali97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://aliportfolioapp.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-238636?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
 
----
-
-### 01 — THE DEVELOPER
-
-I enjoy working on the engineering side of software — where APIs, databases, services and infrastructure come together.
-
-My primary focus is **backend development with JavaScript and TypeScript**, particularly Node.js and its ecosystem. I also work with Java and explore Spring Boot.
-
-I'm interested in more than just making an API work. I like understanding the decisions behind it: how data flows, how services communicate, how failures are handled and how applications evolve as complexity grows.
-
-Alongside backend engineering, I explore Generative AI and ways to integrate LLMs into practical applications.
+</div>
 
 ---
 
-### 02 — ENGINEERING TOOLKIT
+### 01 / ABOUT
 
-\<sub>TECHNOLOGIES · FRAMEWORKS · TOOLS\</sub>
+I'm Ali, a developer focused on **backend engineering** and building applications that solve practical problems.
 
-**01 / Languages**
+My primary stack revolves around JavaScript and TypeScript, with Node.js and NestJS for backend development. I also explore Java and Spring Boot, along with the engineering concepts behind scalable applications.
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=javascript,typescript,java,c&theme=dark](https://skillicons.dev/icons?i=javascript,typescript,java,c\&theme=dark)" />
-\</p>
+Beyond building APIs, I'm interested in how systems communicate, handle failures, process events, and scale as complexity grows.
 
-**02 / Backend**
+- Backend development and REST API design
+- Authentication, authorization and database design
+- Event-driven architecture and microservices
+- Generative AI, RAG and LLM integrations
+- System design and software engineering fundamentals
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring\&theme=dark)" />
-\</p>
+### 02 / TECHNOLOGY
 
-**03 / Data & Messaging**
+**Languages**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka,rabbitmq&theme=dark](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka,rabbitmq\&theme=dark)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,c" />
+</p>
 
-**04 / Infrastructure & Tools**
+**Backend & Frameworks**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,postman,vscode&theme=dark](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,postman,vscode\&theme=dark)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
+</p>
 
-**05 / Frontend**
+**Databases & Infrastructure**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark](https://skillicons.dev/icons?i=react,vite,tailwind,html,css\&theme=dark)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws" />
+</p>
 
-**06 / AI Ecosystem**
+**Frontend & Development Tools**
 
-\<p>
-\<img src="[https://img.shields.io/badge/LangChain-161B22?style=flat-square](https://img.shields.io/badge/LangChain-161B22?style=flat-square)" />
-\<img src="[https://img.shields.io/badge/LangGraph-161B22?style=flat-square](https://img.shields.io/badge/LangGraph-161B22?style=flat-square)" />
-\<img src="[https://img.shields.io/badge/RAG-161B22?style=flat-square](https://img.shields.io/badge/RAG-161B22?style=flat-square)" />
-\<img src="[https://img.shields.io/badge/Pinecone-161B22?style=flat-square](https://img.shields.io/badge/Pinecone-161B22?style=flat-square)" />
-\<img src="[https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini](https://img.shields.io/badge/Gemini-161B22?style=flat-square\&logo=googlegemini)" />
-\<img src="[https://img.shields.io/badge/MCP-161B22?style=flat-square](https://img.shields.io/badge/MCP-161B22?style=flat-square)" />
-\<img src="[https://img.shields.io/badge/Swagger-161B22?style=flat-square&logo=swagger](https://img.shields.io/badge/Swagger-161B22?style=flat-square\&logo=swagger)" />
-\<img src="[https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma](https://img.shields.io/badge/Prisma-161B22?style=flat-square\&logo=prisma)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,git,github,postman,vscode" />
+</p>
 
----
+**Currently working with / exploring**
 
-### 03 — WHAT I'M EXPLORING
+<p>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-222222?style=flat-square&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+### 03 / CURRENT FOCUS
 
-**Backend Architecture**
+| Area | What I'm focusing on |
+|:---|:---|
+| **Backend Engineering** | NestJS, Spring Boot, API architecture |
+| **System Design** | Scalability, caching, reliability, distributed systems |
+| **Messaging** | Kafka, RabbitMQ, event-driven architecture |
+| **AI Engineering** | LangChain, LangGraph, RAG, LLM integrations |
+| **Infrastructure** | Docker, AWS fundamentals, deployment workflows |
 
-- API design
-- Microservices
-- Event-driven architecture
-- Authentication & authorization
-- Database design
+### 04 / GITHUB ACTIVITY
 
-\</td>
-\<td width="50%" valign="top">
+<div align="center">
 
-**Systems & AI**
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
 
-- System design
-- Distributed systems
-- Kafka & message processing
-- Caching & scalability
-- LLM applications & RAG
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
 
-\</td>
-\</tr>
-\</table>
+  <br/><br/>
 
----
+  <img src="https://streak-stats.demolab.com?user=ali-sorathiya64&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="75%" />
 
-### 04 — GITHUB / ACTIVITY
+  <br/><br/>
 
-\<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-sorathiya64&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=ali-sorathiya64\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github\&include_all_commits=true)" /> \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64\&layout=compact\&theme=github_dark\&hide_border=true)" />
-
-\<br/>\<br/>
-
-\<img width="75%" src="[https://streak-stats.demolab.com?user=ali-sorathiya64&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=ali-sorathiya64\&theme=github-dark-blue\&hide_border=true)" />
-
-\</div>
+</div>
 
 ---
 
-### 05 — CONTRIBUTION GRAPH
+<div align="center">
 
-\<div align="center">
+  **LET'S CONNECT**
 
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=ali-sorathiya64&theme=github-compact&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=ali-sorathiya64\&theme=github-compact\&hide_border=true\&area=true)" width="100%" />
+  Open to learning, collaborating, and meaningful engineering conversations.
 
-\</div>
+  <a href="https://github.com/ali-sorathiya64">GitHub</a> ·
+  <a href="https://linkedin.com/in/ali-sorathiya">LinkedIn</a> ·
+  <a href="https://aliportfolioapp.vercel.app/">Portfolio</a> ·
+  <a href="mailto:sorathiyaali97@gmail.com">Email</a>
 
----
+  <br/><br/>
 
-\<div align="center">
+  <sub>Building consistently. Learning continuously.</sub>
 
-### OPEN TO LEARNING. ALWAYS BUILDING.
-
-\<sub>100+ coding challenges · Generative AI certification · Git & GitHub certification\</sub>
-
-\<br/>\<br/>
-
-\<a href="[https://github.com/ali-sorathiya64](https://github.com/ali-sorathiya64)"> \<img src="[https://img.shields.io/badge/ALI--SORATHIYA-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF](https://img.shields.io/badge/ALI--SORATHIYA-0D1117?style=for-the-badge\&logo=github\&logoColor=58A6FF)" /> \</a>
-
-\<br/>\<br/>
-
-\<sub>© Ali Sorathiya · Built with curiosity.\</sub>
-
-\</div>
+</div>
