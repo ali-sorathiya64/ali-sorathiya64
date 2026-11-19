@@ -1,122 +1,160 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=ALI%20SORATHIYA&fontSize=52&fontColor=E6EDF3&fontAlignY=43&desc=BACKEND%20DEVELOPER&descSize=15&descColor=79B8F3&descAlignY=68" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=210&section=header&text=ALI%20SORATHIYA&fontSize=50&fontColor=F0F6FC&fontAlignY=40&desc=BACKEND%20DEVELOPER%20%20%7C%20%20SOFTWARE%20ENGINEERING&descSize=14&descColor=79B8F3&descAlignY=65" />
 
 <br/>
 
-<a href="https://aliportfolioapp.vercel.app/">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ali-sorathiya">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:sorathiyaali97@gmail.com">Get in touch</a>
+### Hey, I'm Ali 👋
+
+**I enjoy building software and understanding what happens behind the scenes.**
+
+<a href="https://aliportfolioapp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1B2B40?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ali-sorathiya"><img src="https://img.shields.io/badge/LinkedIn-Connect-1B2B40?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sorathiyaali97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1B2B40?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ali-sorathiya64&style=flat-square&color=527DA8&label=PROFILE+VIEWS" />
 
 </div>
 
-<br/>
+---
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
-## Hello, I'm Ali.
+## A little about me
 
-I'm a developer who enjoys working on the backend side of applications.
+I'm Ali, a developer interested in building applications and exploring the engineering behind them.
 
-I like understanding how things work behind the scenes — from handling data and building APIs to connecting different parts of an application.
+My main focus is backend development, but I'm curious about different areas of software engineering — from databases and application architecture to distributed systems and AI-powered applications.
 
-I'm constantly learning, experimenting with ideas, and improving the way I approach software development.
+I enjoy learning by building, experimenting with new ideas, and understanding the reasoning behind technical decisions.
 
 </td>
-<td width="38%" valign="center">
+<td width="42%" valign="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&hide_border=true&bg_color=0D1117&title_color=79B8F3&text_color=E6EDF3&langs_count=5" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&hide_border=true&bg_color=0B1220&title_color=79B8F3&text_color=E6EDF3&langs_count=6" />
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+## 01 / Backend & Development
 
-## What I enjoy working on
-
-<details open>
-<summary><b>Building applications</b></summary>
-
-Working with APIs, backend logic, authentication, database operations and connecting services.
-
-</details>
-
-<details>
-<summary><b>Understanding how systems work</b></summary>
-
-Exploring system design, application architecture, asynchronous processing and communication between services.
-
-</details>
-
-<details>
-<summary><b>Experimenting with AI</b></summary>
-
-Exploring LLM integrations, RAG, and ways to bring useful AI capabilities into applications.
-
-</details>
-
----
-
-## Tools I've worked with
+The technologies I use and explore while building applications.
 
 <div align="center">
 
-**Backend & Development**
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,c" />
 
-<br/>
+<br/><br/>
 
-**Databases**
+**Backend Frameworks**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
+
+<br/><br/>
+
+**Databases & Data Storage**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 
-<br/>
+<br/><br/>
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-
-<br/>
-
-**Tools & Infrastructure**
+**Infrastructure & Development Tools**
 
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode" />
 
 </div>
 
-<sub>Also exploring: Kafka · RabbitMQ · LangChain · LangGraph · RAG</sub>
+## 02 / Beyond the Backend
+
+Some of the other areas I've been working with and exploring.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Messaging & Event Processing
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+
+Exploring event-driven systems, message queues and asynchronous communication.
+
+</td>
+<td width="50%" valign="top">
+
+### Generative AI
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-222222?style=flat-square" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6655CC?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-444444?style=flat-square" />
+
+Exploring LLM applications, retrieval-augmented generation and AI workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### API Development
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/REST%20APIs-4169E1?style=flat-square" />
+
+Working with API design, documentation, authentication and integrations.
+
+</td>
+<td width="50%" valign="top">
+
+### ORM & Application Services
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+
+Exploring data access patterns, persistence and application integrations.
+
+</td>
+</tr>
+</table>
+
+## 03 / What I'm learning
+
+A few topics I keep coming back to:
+
+- **System Design** — understanding trade-offs, architecture and scalability.
+- **Distributed Systems** — learning how services communicate and handle events.
+- **Backend Engineering** — improving API design, database modelling and application structure.
+- **AI Engineering** — experimenting with RAG, LLMs and agent workflows.
+
+I don't claim to know everything here. These are areas I'm actively learning and getting hands-on with.
 
 ---
 
-## Currently learning
-
-| Topic | Focus |
-|:--|:--|
-| Backend engineering | Writing cleaner, maintainable application code |
-| System design | Understanding architecture and trade-offs |
-| Distributed systems | Events, messaging and service communication |
-| AI integration | Building practical LLM-powered features |
-
----
-
-## GitHub activity
+## 04 / GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79B8F3&icon_color=79B8F3&text_color=E6EDF3&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=ali-sorathiya64&hide_border=true&background=0D1117&ring=79B8F3&fire=79B8F3&currStreakLabel=79B8F3&sideLabels=E6EDF3&dates=9AA4B2&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-sorathiya64&bg_color=0D1117&color=E6EDF3&line=79B8F3&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<a href="https://github.com/ali-sorathiya64">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&hide_border=true&bg_color=0B1220&title_color=79B8F3&icon_color=79B8F3&text_color=E6EDF3&rank_icon=github&include_all_commits=true" />
+</a>
+<a href="https://github.com/ali-sorathiya64">
+<img width="49%" src="https://streak-stats.demolab.com?user=ali-sorathiya64&hide_border=true&background=0B1220&ring=79B8F3&fire=79B8F3&currStreakLabel=79B8F3&sideLabels=E6EDF3&dates=9AA4B2&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</a>
 
 </div>
 
@@ -127,17 +165,17 @@ Exploring LLM integrations, RAG, and ways to bring useful AI capabilities into a
 ### Find me around the web
 
 <a href="https://github.com/ali-sorathiya64">GitHub</a>
-&nbsp;·&nbsp;
+&nbsp; · &nbsp;
 <a href="https://linkedin.com/in/ali-sorathiya">LinkedIn</a>
-&nbsp;·&nbsp;
+&nbsp; · &nbsp;
 <a href="https://aliportfolioapp.vercel.app/">Portfolio</a>
-&nbsp;·&nbsp;
+&nbsp; · &nbsp;
 <a href="mailto:sorathiyaali97@gmail.com">Email</a>
 
 <br/><br/>
 
-<sub>Thanks for stopping by.</sub>
+<sub>Thanks for visiting my profile.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=45&section=footer" />
 
 </div>
