@@ -156,6 +156,12 @@ I don't claim to know everything here. These are areas I'm actively learning and
 <img width="49%" src="https://streak-stats.demolab.com?user=ali-sorathiya64&hide_border=true&background=0B1220&ring=79B8F3&fire=79B8F3&currStreakLabel=79B8F3&sideLabels=E6EDF3&dates=9AA4B2&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/ali-sorathiya64">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-sorathiya64&theme=github_dark" />
+</a>
+
 </div>
 
 ---
