@@ -1,44 +1,44 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=210&section=header&text=ALI%20SORATHIYA&fontSize=50&fontColor=F0F6FC&fontAlignY=40&desc=BACKEND%20DEVELOPER%20%20%7C%20%20SOFTWARE%20ENGINEERING&descSize=14&descColor=79B8F3&descAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0B1220,45:14283D,100:1D4565&text=ALI%20SORATHIYA&fontSize=54&fontColor=F0F6FC&fontAlignY=42&desc=BACKEND%20DEVELOPMENT%20%2F%20SOFTWARE%20ENGINEERING&descSize=13&fontAlign=50&descAlignY=62&animation=fadeIn" />
 
 <br/>
 
-### Hey, I'm Ali 👋
-
-**I enjoy building software and understanding what happens behind the scenes.**
-
-<a href="https://aliportfolioapp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1B2B40?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ali-sorathiya"><img src="https://img.shields.io/badge/LinkedIn-Connect-1B2B40?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sorathiyaali97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1B2B40?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ali-sorathiya64&style=flat-square&color=527DA8&label=PROFILE+VIEWS" />
+<a href="https://aliportfolioapp.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-79B8F3?style=for-the-badge&logo=googlechrome&logoColor=0B1220" />
+</a>
+<a href="https://linkedin.com/in/ali-sorathiya">
+  <img src="https://img.shields.io/badge/LINKEDIN-79B8F3?style=for-the-badge&logo=linkedin&logoColor=0B1220" />
+</a>
+<a href="mailto:sorathiyaali97@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-79B8F3?style=for-the-badge&logo=gmail&logoColor=0B1220" />
+</a>
 
 </div>
 
----
+<br/>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="65%" valign="top">
 
-## A little about me
+### Not everything happens on the screen.
 
-I'm Ali, a developer interested in building applications and exploring the engineering behind them.
+I'm Ali — a backend developer interested in the parts of software users don't usually see.
 
-My main focus is backend development, but I'm curious about different areas of software engineering — from databases and application architecture to distributed systems and AI-powered applications.
+The logic behind an application. The data moving between services. The APIs connecting different pieces. The decisions that make an application easier to maintain.
 
-I enjoy learning by building, experimenting with new ideas, and understanding the reasoning behind technical decisions.
+I enjoy exploring these things through hands-on development, experimenting with different technologies, and learning how real-world software is put together.
+
+I'm still growing as an engineer, and that's a part of the journey I genuinely enjoy.
 
 </td>
-<td width="42%" valign="center">
+<td width="35%" valign="center">
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&hide_border=true&bg_color=0B1220&title_color=79B8F3&text_color=E6EDF3&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&hide_border=true&bg_color=0B1220&title_color=79B8F3&text_color=E6EDF3&langs_count=6&card_width=300" />
 
 </div>
 
@@ -46,55 +46,55 @@ I enjoy learning by building, experimenting with new ideas, and understanding th
 </tr>
 </table>
 
-## 01 / Backend & Development
+---
 
-The technologies I use and explore while building applications.
+## 01 — The backend toolbox
+
+Not tied to one framework. I enjoy understanding different tools and choosing the right approach for the problem.
 
 <div align="center">
 
-**Programming Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,java,c" />
-
-<br/><br/>
-
-**Backend Frameworks**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,c&theme=dark" />
 
 <br/><br/>
 
-**Databases & Data Storage**
+### Backend development
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark" />
 
 <br/><br/>
 
-**Infrastructure & Development Tools**
+### Databases & data access
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=dark" />
+
+<br/><br/>
+
+### Infrastructure & everyday tools
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode&theme=dark" />
 
 </div>
 
-## 02 / Beyond the Backend
-
-Some of the other areas I've been working with and exploring.
+### Beyond the usual stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Messaging & Event Processing
+**01 / Messaging & event-driven systems**
 
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 
-Exploring event-driven systems, message queues and asynchronous communication.
+Message queues, event processing and asynchronous communication.
 
 </td>
 <td width="50%" valign="top">
 
-### Generative AI
+**02 / Generative AI**
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-222222?style=flat-square" />
@@ -103,49 +103,84 @@ Exploring event-driven systems, message queues and asynchronous communication.
 <img src="https://img.shields.io/badge/RAG-6655CC?style=flat-square" />
 <img src="https://img.shields.io/badge/MCP-444444?style=flat-square" />
 
-Exploring LLM applications, retrieval-augmented generation and AI workflows.
+LLM applications, retrieval, vector search and AI workflows.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### API Development
+**03 / APIs & documentation**
 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/REST%20APIs-4169E1?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20API-4169E1?style=flat-square" />
 
-Working with API design, documentation, authentication and integrations.
+API design, authentication, integrations and documentation.
 
 </td>
 <td width="50%" valign="top">
 
-### ORM & Application Services
+**04 / Application ecosystem**
 
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector%20DBs-6750A4?style=flat-square" />
 
-Exploring data access patterns, persistence and application integrations.
+Persistence, authentication services and data retrieval.
 
 </td>
 </tr>
 </table>
 
-## 03 / What I'm learning
+---
 
-A few topics I keep coming back to:
+## 02 — Things I find interesting
 
-- **System Design** — understanding trade-offs, architecture and scalability.
-- **Distributed Systems** — learning how services communicate and handle events.
-- **Backend Engineering** — improving API design, database modelling and application structure.
-- **AI Engineering** — experimenting with RAG, LLMs and agent workflows.
+<details>
+<summary><b>When an API becomes more than an endpoint</b></summary>
 
-I don't claim to know everything here. These are areas I'm actively learning and getting hands-on with.
+I like exploring how API design, validation, authentication, database operations and error handling come together to form a reliable application.
+
+</details>
+
+<details>
+<summary><b>When services start talking to each other</b></summary>
+
+Queues, events, background jobs and asynchronous processing are interesting because they introduce a completely different way of thinking about application flow.
+
+</details>
+
+<details>
+<summary><b>When software starts getting complicated</b></summary>
+
+System design helps me understand trade-offs: how to structure components, where bottlenecks appear, and why certain architectural decisions make sense.
+
+</details>
+
+<details>
+<summary><b>When AI becomes part of an application</b></summary>
+
+I'm interested in practical LLM integrations, RAG pipelines, agent workflows and connecting AI capabilities with ordinary backend systems.
+
+</details>
 
 ---
 
-## 04 / GitHub Statistics
+## 03 — Current learning notes
+
+A few directions I'm spending time understanding:
+
+| Topic | Current direction |
+|---|---|
+| System design | Architecture, trade-offs and scalability |
+| Distributed systems | Events, messaging and service communication |
+| Backend engineering | Maintainability, API design and data modelling |
+| AI applications | RAG, agent workflows and LLM integrations |
+| Infrastructure | Docker, AWS fundamentals and deployment |
+
+---
+
+## 04 — Activity, not just a number
 
 <div align="center">
 
@@ -168,20 +203,24 @@ I don't claim to know everything here. These are areas I'm actively learning and
 
 <div align="center">
 
-### Find me around the web
+### Outside the code editor
+
+Always happy to connect, exchange ideas, and learn from other developers.
+
+<br/>
 
 <a href="https://github.com/ali-sorathiya64">GitHub</a>
-&nbsp; · &nbsp;
+&nbsp; / &nbsp;
 <a href="https://linkedin.com/in/ali-sorathiya">LinkedIn</a>
-&nbsp; · &nbsp;
+&nbsp; / &nbsp;
 <a href="https://aliportfolioapp.vercel.app/">Portfolio</a>
-&nbsp; · &nbsp;
+&nbsp; / &nbsp;
 <a href="mailto:sorathiyaali97@gmail.com">Email</a>
 
 <br/><br/>
 
-<sub>Thanks for visiting my profile.</sub>
+<sub>Made with curiosity, code, and a lot of learning.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=45&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=55&section=footer" />
 
 </div>
