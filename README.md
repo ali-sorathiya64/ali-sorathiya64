@@ -1,197 +1,237 @@
 
+<!-- ================= HERO ================= -->
+
 <div align="center">
 
-# Ali Sorathiya
-
-### Backend Developer · Node.js · TypeScript · NestJS · Spring Boot
-
-Building APIs, exploring distributed systems, and figuring out what happens behind the scenes.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ALI%20SORATHIYA&fontSize=55&fontColor=58A6FF&fontAlignY=45&desc=BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=68&color=0:0D1117,50:161B22,100:0D1117" />
 
 <br/>
 
-<a href="https://aliportfolioapp.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+**Backend Development / Distributed Systems / Generative AI**
+
+<br/>
+
+<a href="https://aliportfolioapp.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/ali-sorathiya">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="mailto:sorathiyaali97@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Contact-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Development;Building+REST+APIs;Exploring+Microservices;Event-Driven+Architecture;System+Design+%26+GenAI" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ali-sorathiya64&label=Profile+Views&color=1F6FEB&style=flat-square" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+backend+applications;Designing+APIs+and+service+architectures;Exploring+event-driven+systems;Understanding+distributed+systems;Building+with+LLMs+and+RAG" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ================= INTRO ================= -->
 
-I'm a backend-focused developer who enjoys building applications and understanding the engineering behind them.
+## About
 
-I mainly work with **JavaScript, TypeScript, Node.js and backend technologies**, with an interest in API design, databases, asynchronous processing and distributed systems.
+I'm Ali, a backend-focused developer interested in the engineering behind modern applications.
 
-I like exploring how individual components come together to build scalable applications — from handling requests and managing data to communicating between services.
+My primary stack revolves around **JavaScript, TypeScript, Node.js and backend development**, with additional experience in Java and Spring Boot.
 
-Currently exploring **Microservices, Kafka, System Design and Generative AI** while continuing to strengthen my backend fundamentals.
+Beyond building APIs, I'm interested in understanding how systems behave at scale — database performance, asynchronous processing, service communication, caching and fault tolerance.
 
-> *Interested in how things work, not just making them work.*
-
----
-
-## 🛠️ Technologies I Work With
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring&theme=dark" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
-</p>
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,typescript,javascript,c&theme=dark" />
-</p>
-
-### Cloud, DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,postman,vscode&theme=dark" />
-</p>
-
-### AI & Backend Technologies
-
-<p align="left">
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-5A31F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pinecone-005CFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge" />
-</p>
+I also explore Generative AI, particularly LLM integrations, RAG pipelines and AI-powered application workflows.
 
 ---
 
-## 📚 Currently Exploring
+<!-- ================= ENGINEERING ================= -->
+
+## Engineering Interests
 
 <table>
 <tr>
-<td align="center" width="20%">
-  <br/>
-  <b>🏗️</b>
-  <br/><br/>
-  **System Design**
-  <br/>
-  <sub>Architecture & Scalability</sub>
-  <br/><br/>
+<td width="50%" valign="top">
+
+### Backend Engineering
+
+- REST API Design
+- Authentication & Authorization
+- Database Design & Optimization
+- NestJS & Spring Boot
+- Backend Architecture
+
 </td>
-<td align="center" width="20%">
-  <br/>
-  <b>⚡</b>
-  <br/><br/>
-  **Microservices**
-  <br/>
-  <sub>Distributed Systems</sub>
-  <br/><br/>
+<td width="50%" valign="top">
+
+### Distributed Systems
+
+- Microservices Architecture
+- Apache Kafka & RabbitMQ
+- Event-Driven Systems
+- Redis & Caching
+- System Design
+
 </td>
-<td align="center" width="20%">
-  <br/>
-  <b>📨</b>
-  <br/><br/>
-  **Kafka**
-  <br/>
-  <sub>Event-Driven Architecture</sub>
-  <br/><br/>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Cloud & Infrastructure
+
+- Docker & Containerization
+- AWS Fundamentals
+- CI/CD Workflows
+- Service Deployment
+
 </td>
-<td align="center" width="20%">
-  <br/>
-  <b>☁️</b>
-  <br/><br/>
-  **AWS**
-  <br/>
-  <sub>Cloud & Deployment</sub>
-  <br/><br/>
-</td>
-<td align="center" width="20%">
-  <br/>
-  <b>🤖</b>
-  <br/><br/>
-  **Gen AI**
-  <br/>
-  <sub>LLMs & RAG</sub>
-  <br/><br/>
+<td width="50%" valign="top">
+
+### Applied AI
+
+- LLM Integrations
+- LangChain & LangGraph
+- Retrieval-Augmented Generation
+- Vector Databases
+- MCP
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub
+<!-- ================= TECHNOLOGIES ================= -->
+
+## Technology Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+**LANGUAGES**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,c&theme=dark" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ali-sorathiya64&theme=tokyonight&hide_border=true" />
+**BACKEND**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark" />
+
+<br/><br/>
+
+**DATABASES & STORAGE**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+
+<br/><br/>
+
+**MESSAGING & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,aws&theme=dark" />
+
+<br/><br/>
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
+
+<br/><br/>
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode&theme=dark" />
+
+<br/><br/>
+
+**AI ECOSYSTEM**
+
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Pinecone-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini" />
+<img src="https://img.shields.io/badge/Swagger-161B22?style=flat-square&logo=swagger" />
+<img src="https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<!-- ================= LEARNING ================= -->
+
+## Currently Exploring
+
+```yaml
+focus:
+  - System Design
+  - Distributed Systems
+  - Event-Driven Architecture
+  - Backend Scalability
+  - Generative AI
+
+interests:
+  - Software Architecture
+  - Database Internals
+  - Messaging Systems
+  - AI Engineering
+```
+
+---
+
+<!-- ================= GITHUB ================= -->
+
+## GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-sorathiya64&theme=tokyo-night&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sorathiya64&layout=compact&theme=transparent&hide_border=true" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=ali-sorathiya64&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Connect
+## Contribution Activity
 
 <div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-sorathiya64&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+<div align="center">
+
+## Let's Connect
+
+Open to conversations about backend engineering, software architecture and technology.
+
+<br/>
 
 <a href="mailto:sorathiyaali97@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="42"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ali-sorathiya">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://linkedin.com/in/ali-sorathiya">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ali-sorathiya64">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" width="42"/>
 </a>
 
 <br/><br/>
 
-**Code · Learn · Build · Repeat**
+<img src="https://komarev.com/ghpvc/?username=ali-sorathiya64&style=flat-square&color=58A6FF&label=VISITORS" />
+
+<br/><br/>
+
+<sub>Built with curiosity. Improved with every commit.</sub>
 
 </div>
