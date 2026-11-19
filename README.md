@@ -150,7 +150,7 @@ I don't claim to know everything here. These are areas I'm actively learning and
 <div align="center">
 
 <a href="https://github.com/ali-sorathiya64">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&hide_border=true&bg_color=0B1220&title_color=79B8F3&icon_color=79B8F3&text_color=E6EDF3&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ali-sorathiya64&show_icons=true&hide_border=true&bg_color=0B1220&title_color=79B8F3&icon_color=79B8F3&text_color=E6EDF3&rank_icon=github&hide=commits" />
 </a>
 <a href="https://github.com/ali-sorathiya64">
 <img width="49%" src="https://streak-stats.demolab.com?user=ali-sorathiya64&hide_border=true&background=0B1220&ring=79B8F3&fire=79B8F3&currStreakLabel=79B8F3&sideLabels=E6EDF3&dates=9AA4B2&currStreakNum=FFFFFF&sideNums=FFFFFF" />
