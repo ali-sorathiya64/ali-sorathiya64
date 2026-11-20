@@ -25,7 +25,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## A little about me
+## A little stuff about me
 
 I'm Ali, a developer interested in building applications and exploring the engineering behind them.
 
